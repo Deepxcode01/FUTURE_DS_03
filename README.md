@@ -1,5 +1,4 @@
-# 📊 FUTURE_DS_03
-## Marketing Funnel & Conversion Performance Analysis
+# 📊 FUTURE_DS_03 - Marketing Funnel & Conversion Performance Analysis
 
 <div align="center">
 
