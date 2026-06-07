@@ -208,10 +208,9 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-**Internship:** Future Interns — Data Science & Analytics
-**Track Code:** DS
-**Task:** 03
-**GitHub Repo:** FUTURE_DS_03
+**Deepak**  
+🎓 B.Tech in Artificial Intelligence  
+🏫 Delhi Skill and Entrepreneurship University (DSEU)
 
 ---
 
