@@ -1,10 +1,6 @@
 # 📊 FUTURE_DS_03
 ## Marketing Funnel & Conversion Performance Analysis
 
-<p align="center">
-  <img src="dashboard/dashboard.png" alt="Marketing Funnel Dashboard" width="100%"/>
-</p>
-
 ---
 
 ## 🚀 Future Interns — Data Science & Analytics Internship
@@ -29,38 +25,30 @@ This project analyzes real-world marketing funnel data from the **Olist e-commer
 
 ```
 FUTURE_DS_03/
-│
-├── notebook/
-│   └── Analysis.ipynb              ← Full EDA + Funnel Analysis (Jupyter)
-│
 ├── dashboard/
-│   ├── app.py                      ← Interactive Streamlit Dashboard
-│   └── dashboard.png               ← Dashboard Preview (Dark Theme)
-│
+│   ├── app.py
+│   └── dashboard.png
+├── dataset/
+│   ├── olist_marketing_qualified_leads_dataset.csv
+│   └── olist_closed_deals_dataset.csv
+├── notebook/
+│   └── Analysis.ipynb
 ├── report/
-│   └── Task_Report.png             ← Full Analysis Report (Light Theme)
-│
-├── insights/
-│   └── key_insights.md             ← Business Insights & Recommendations
-│
-├── olist_marketing_qualified_leads_dataset.csv   ← Dataset 1
-├── olist_closed_deals_dataset.csv                ← Dataset 2
-├── requirements.txt                ← Python Dependencies
-└── README.md                       ← This File
+│   └── Task_Report.pdf
+└── insights/
+    └── key_insights.md
+├── README.md
+└── requirements.txt
+
 ```
 
 ---
 
 ## 📊 Dashboard Preview
 
-### 🌙 Interactive Dashboard (Dark Theme)
+### 🌙 Interactive Dashboard
 <p align="center">
   <img src="dashboard/dashboard.png" alt="Dashboard" width="100%"/>
-</p>
-
-### ☀️ Task Report (Light Theme)
-<p align="center">
-  <img src="report/Task_Report.png" alt="Task Report" width="100%"/>
 </p>
 
 ---
@@ -230,6 +218,7 @@ streamlit run app.py
 ## ⭐ Acknowledgement
 
 This project was completed as part of the **Future Interns Data Science & Analytics Internship Program**.
+
 Dataset: [Olist Marketing Funnel on Kaggle](https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist)
 
-> ⭐ If you found this useful, give it a star!
+>## ⭐ If you found this useful, give it a star!
