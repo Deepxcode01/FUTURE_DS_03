@@ -220,4 +220,5 @@ This project was completed as part of the **Future Interns Data Science & Analyt
 
 Dataset: [Olist Marketing Funnel on Kaggle](https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist)
 
->## ⭐ If you found this useful, give it a star!
+>---
+<div align="center"><i>⭐ Star this repo if you found it helpful!</i></div>
