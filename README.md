@@ -1,6 +1,15 @@
 # 📊 FUTURE_DS_03
 ## Marketing Funnel & Conversion Performance Analysis
 
+<div align="center">
+
+![Future Interns](https://img.shields.io/badge/Future%20Interns-Data%20Science%20%26%20Analytics-blue?style=for-the-badge)
+![Task](https://img.shields.io/badge/Task-03-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-Interactive-blueviolet?style=for-the-badge)
+
+</div>
+
 ---
 
 ## 🚀 Future Interns — Data Science & Analytics Internship
@@ -220,5 +229,6 @@ This project was completed as part of the **Future Interns Data Science & Analyt
 
 Dataset: [Olist Marketing Funnel on Kaggle](https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist)
 
->---
+>
+---
 <div align="center"><i>⭐ Star this repo if you found it helpful!</i></div>
